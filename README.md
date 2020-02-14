@@ -1,2 +1,6 @@
 # GitLab-BulkDeleteContainers
-Delete container from registry repository
+
+Delete container from GitLab registry repository
+
+see gitlab_bulk_delete_containers.pl
+
